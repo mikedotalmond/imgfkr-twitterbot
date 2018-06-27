@@ -1,0 +1,11 @@
+
+-js bin/main.js 
+-cp src 
+-main Main
+
+-lib hxnodejs
+-lib compiletime
+-lib format
+
+-dce full 
+-D nodejs

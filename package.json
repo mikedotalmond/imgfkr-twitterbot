@@ -1,0 +1,15 @@
+{
+  "name": "imgfkr-twitterbot",
+  "version": "1.0.0",
+  "description": "Have image, will glitch.",
+  "main": "bin/main.js",
+  "scripts": {
+    "start": "node bin/main.js"
+  },
+  "author": "Mike Almond | @mikedotalmond",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.1.1",
+    "jpeg-js": "^0.1.2"
+  }
+}

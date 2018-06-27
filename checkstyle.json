@@ -1,0 +1,10 @@
+{
+    "checks": [
+        {
+            "props": {
+                "character": "  "
+            },
+            "type": "Indentation"
+        }
+    ]
+}

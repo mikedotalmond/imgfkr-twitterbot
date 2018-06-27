@@ -1,0 +1,22 @@
+{
+  "name": "imgfkr",
+  "minTweetInterval": 30,
+  "tweetQueueMax": 256,
+  "processQueueMax": 256,
+  "imageSearch": {
+    "interval": 8100,
+    "retryInterval": 900,
+    "historySize": 1024,
+    "keywords": [
+      "#glitch",
+      "#glitchart",
+      "#generative",
+      "#generativeart",
+      "#procedural",
+      "#ProceduralArt",
+      "\"glitch art\"",
+      "\"procedural art\"",
+      "\"generative art\""
+    ]
+  }
+}
